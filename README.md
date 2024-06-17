@@ -17,7 +17,7 @@
   <img  align="center"  alt="nodejs"  src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white">
   </div></br>
 
-  Estudante de Análise e Desenvolvimento De Sistemas.
+  Em Busca da Primeira Oportunidade Dev.
 
   ## Sistemas que Utilizo
   
